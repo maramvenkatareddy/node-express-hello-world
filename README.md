@@ -1,4 +1,4 @@
-# ddd pipeline Simple Node Express Hello World App
+# ddd pipeline Simple Node Express Hello World App to internet
 
 
 ![localhost:3000](/public/images/localhost_3000.png?raw=true "Node & Express")
